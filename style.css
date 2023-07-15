@@ -1,0 +1,102 @@
+/* Общие стили */
+body {
+    font-family: Arial, sans-serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Стили для заголовка */
+header h1 {
+    font-size: 36px;
+    color: #333333;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+/* Стили для контактов */
+.contacts {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.contacts h2 {
+    font-size: 24px;
+    margin-top: 0;
+}
+
+/* Стили для навыков */
+.skills {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.skills h2 {
+    font-size: 24px;
+    margin-top: 0;
+}
+
+.skills ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Стили для блока с информацией о себе */
+.about {
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.about h2 {
+    font-size: 24px;
+    margin-top: 0;
+}
+
+/* Стили для примеров кода */
+.code-samples {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+/* ... */
+
+/* Стили для примеров кода */
+.code-samples {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.code-samples h2 {
+    font-size: 24px;
+    margin-top: 0;
+}
+
+.code-samples pre {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    overflow-x: auto;
+}
+
+footer {
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
+
+footer p {
+    margin: 0;
+}
+
